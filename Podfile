@@ -7,6 +7,9 @@ target 'RecommendCreditCard' do
 
   pod 'Kingfisher'
   pod 'lottie-ios'
+  pod 'Firebase/Database'
+  pod 'Firebase/Firestore'
+  pod 'FirebaseFirestoreSwift'
   # Pods for RecommendCreditCard
 
 end
