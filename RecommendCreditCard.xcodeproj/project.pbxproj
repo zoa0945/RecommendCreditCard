@@ -77,18 +77,18 @@
 		04E8B5F3278D73D40002DD90 /* RecommendCreditCard */ = {
 			isa = PBXGroup;
 			children = (
-				041A0D54278D897100C1EE6E /* money.json */,
 				04E8B5F4278D73D40002DD90 /* AppDelegate.swift */,
 				04E8B5F6278D73D50002DD90 /* SceneDelegate.swift */,
 				04E8B608278D73FD0002DD90 /* CardListViewController.swift */,
 				04EEEA2D278D855700D39F11 /* CardDetailViewController.swift */,
 				04E8B5FA278D73D50002DD90 /* Main.storyboard */,
 				04E8B60A278D79C60002DD90 /* CreditCard.swift */,
+				0416F06B279038A7007FA10D /* CreditCardDummy.swift */,
 				04E8B60C278D7A970002DD90 /* CardListCell.swift */,
 				04E8B60D278D7A970002DD90 /* CardListCell.xib */,
-				0416F06B279038A7007FA10D /* CreditCardDummy.swift */,
 				04E8B5FD278D73D70002DD90 /* Assets.xcassets */,
 				04E8B5FF278D73D70002DD90 /* LaunchScreen.storyboard */,
+				041A0D54278D897100C1EE6E /* money.json */,
 				04E8B602278D73D70002DD90 /* Info.plist */,
 				04ED89E1278FFFCB00E9939F /* GoogleService-Info.plist */,
 			);
